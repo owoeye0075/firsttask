@@ -1,0 +1,27 @@
+*{
+    font-size: 20px;
+}
+
+.first-title{
+    color: rgb(24, 168, 31);
+}
+
+#outside-link{
+    color: rgb(226, 116, 43);
+}
+
+h3 {
+    color: blue;
+}
+.radom h1{
+    color: brown;
+    font-size: 50px;
+    
+}
+.radom h5{
+    font-size: 75px;
+    color: rgb(42, 165, 42);
+}
+.emapadding{
+    padding-right: 25px;
+}
